@@ -1,2 +1,2 @@
-# sscg_control
-Control Repo for SSCG
+
+Questy.org Control Repo
