@@ -46,9 +46,9 @@
 
 # Non Forge Modules
 mod 'profiles',
-  :git    => 'https://github.com/SSCGATL/profiles.git',
+  :git    => 'https://github.com/SSCGATL/sscg_profiles.git',
   :branch => 'production'
 
 mod 'roles',
-  :git    => 'https://github.com/SSCGATL/roles.git',
+  :git    => 'https://github.com/SSCGATL/sscg_roles.git',
   :branch => 'production'
