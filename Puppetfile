@@ -46,9 +46,9 @@
 
 # Non Forge Modules
 mod 'profiles',
-  :git    => 'https://github.com/cvquesty/profiles.git',
-  :branch => 'development'
+  :git    => 'https://github.com/SSCGATL/profiles.git',
+  :branch => 'production'
 
 mod 'roles',
-  :git    => 'https://github.com/cvquesty/roles.git',
-  :branch => 'development'
+  :git    => 'https://github.com/SSCGATL/roles.git',
+  :branch => 'production'
