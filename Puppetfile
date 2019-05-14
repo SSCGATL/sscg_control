@@ -45,10 +45,10 @@
   mod "trlinkin/nsswitch"
 
 # Non Forge Modules
-mod 'profiles',
+mod 'sscg_profiles',
   :git    => 'https://github.com/SSCGATL/sscg_profiles.git',
   :branch => 'development'
 
-mod 'roles',
+mod 'sscg_roles',
   :git    => 'https://github.com/SSCGATL/sscg_roles.git',
   :branch => 'development'
