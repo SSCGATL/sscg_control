@@ -25,6 +25,7 @@
   mod "puppetlabs/host_core"
   mod "puppetlabs/inifile"
   mod "puppetlabs/inventory"
+  mod "puppetlabs/java"
   mod "puppetlabs/limits"
   mod "puppetlabs/motd"
   mod "puppetlabs/mount_core"
